@@ -1,0 +1,4 @@
+target_host: SERVER  #server ip
+target_port: SERVER_PORT
+target_user: USER #user on server machine
+key_location: LOCATION #local path to key
