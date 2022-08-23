@@ -1,5 +1,5 @@
 - name: initiate reverse ssh tunnel
-  hosts: "localhost"
+  hosts: localhost
   #error on any host will stop all
   any_errors_fatal: true
   gather_facts: no
